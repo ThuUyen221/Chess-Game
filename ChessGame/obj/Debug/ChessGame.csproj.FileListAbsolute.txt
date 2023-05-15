@@ -1,0 +1,42 @@
+D:\DESKTOP\WindowsFormChess-LAN-\WindowsFormChess\bin\Debug\Sakk Alkalmazás 2.0.exe.config
+D:\DESKTOP\WindowsFormChess-LAN-\WindowsFormChess\bin\Debug\Sakk Alkalmazás 2.0.exe
+D:\DESKTOP\WindowsFormChess-LAN-\WindowsFormChess\bin\Debug\Sakk Alkalmazás 2.0.pdb
+D:\DESKTOP\WindowsFormChess-LAN-\WindowsFormChess\obj\Debug\ChessGame.csproj.AssemblyReference.cache
+D:\DESKTOP\WindowsFormChess-LAN-\WindowsFormChess\obj\Debug\ChessGame.csproj.SuggestedBindingRedirects.cache
+D:\DESKTOP\WindowsFormChess-LAN-\WindowsFormChess\obj\Debug\ChessGame.ConnectionForm.resources
+D:\DESKTOP\WindowsFormChess-LAN-\WindowsFormChess\obj\Debug\ChessGame.InGameForm.resources
+D:\DESKTOP\WindowsFormChess-LAN-\WindowsFormChess\obj\Debug\ChessGame.MainMenu.resources
+D:\DESKTOP\WindowsFormChess-LAN-\WindowsFormChess\obj\Debug\ChessGame.PromotionForm.resources
+D:\DESKTOP\WindowsFormChess-LAN-\WindowsFormChess\obj\Debug\Sakk_Alkalmazás_2._0.Properties.Resources.resources
+D:\DESKTOP\WindowsFormChess-LAN-\WindowsFormChess\obj\Debug\ChessGame.csproj.GenerateResource.cache
+D:\DESKTOP\WindowsFormChess-LAN-\WindowsFormChess\obj\Debug\ChessGame.csproj.CoreCompileInputs.cache
+D:\DESKTOP\WindowsFormChess-LAN-\WindowsFormChess\obj\Debug\Sakk Alkalmazás 2.0.exe
+D:\DESKTOP\WindowsFormChess-LAN-\WindowsFormChess\obj\Debug\Sakk Alkalmazás 2.0.pdb
+D:\DESKTOP\ChessGame\ChessGame\bin\Debug\Sakk Alkalmazás 2.0.exe.config
+D:\DESKTOP\ChessGame\ChessGame\bin\Debug\Sakk Alkalmazás 2.0.exe
+D:\DESKTOP\ChessGame\ChessGame\bin\Debug\Sakk Alkalmazás 2.0.pdb
+D:\DESKTOP\ChessGame\ChessGame\obj\Debug\ChessGame.csproj.AssemblyReference.cache
+D:\DESKTOP\ChessGame\ChessGame\obj\Debug\ChessGame.csproj.SuggestedBindingRedirects.cache
+D:\DESKTOP\ChessGame\ChessGame\obj\Debug\ChessGame.ConnectionForm.resources
+D:\DESKTOP\ChessGame\ChessGame\obj\Debug\ChessGame.InGameForm.resources
+D:\DESKTOP\ChessGame\ChessGame\obj\Debug\ChessGame.MainMenu.resources
+D:\DESKTOP\ChessGame\ChessGame\obj\Debug\ChessGame.PromotionForm.resources
+D:\DESKTOP\ChessGame\ChessGame\obj\Debug\Sakk_Alkalmazás_2._0.Properties.Resources.resources
+D:\DESKTOP\ChessGame\ChessGame\obj\Debug\ChessGame.csproj.GenerateResource.cache
+D:\DESKTOP\ChessGame\ChessGame\obj\Debug\ChessGame.csproj.CoreCompileInputs.cache
+D:\DESKTOP\ChessGame\ChessGame\obj\Debug\Sakk Alkalmazás 2.0.exe
+D:\DESKTOP\ChessGame\ChessGame\obj\Debug\Sakk Alkalmazás 2.0.pdb
+C:\Users\admin\Desktop\ChessGame\ChessGame\ChessGame\bin\Debug\Sakk Alkalmazás 2.0.exe.config
+C:\Users\admin\Desktop\ChessGame\ChessGame\ChessGame\bin\Debug\Sakk Alkalmazás 2.0.exe
+C:\Users\admin\Desktop\ChessGame\ChessGame\ChessGame\bin\Debug\Sakk Alkalmazás 2.0.pdb
+C:\Users\admin\Desktop\ChessGame\ChessGame\ChessGame\obj\Debug\ChessGame.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\ChessGame\ChessGame\ChessGame\obj\Debug\ChessGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\ChessGame\ChessGame\ChessGame\obj\Debug\ChessGame.ConnectionForm.resources
+C:\Users\admin\Desktop\ChessGame\ChessGame\ChessGame\obj\Debug\ChessGame.InGameForm.resources
+C:\Users\admin\Desktop\ChessGame\ChessGame\ChessGame\obj\Debug\ChessGame.MainMenu.resources
+C:\Users\admin\Desktop\ChessGame\ChessGame\ChessGame\obj\Debug\ChessGame.PromotionForm.resources
+C:\Users\admin\Desktop\ChessGame\ChessGame\ChessGame\obj\Debug\Sakk_Alkalmazás_2._0.Properties.Resources.resources
+C:\Users\admin\Desktop\ChessGame\ChessGame\ChessGame\obj\Debug\ChessGame.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\ChessGame\ChessGame\ChessGame\obj\Debug\ChessGame.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ChessGame\ChessGame\ChessGame\obj\Debug\Sakk Alkalmazás 2.0.exe
+C:\Users\admin\Desktop\ChessGame\ChessGame\ChessGame\obj\Debug\Sakk Alkalmazás 2.0.pdb
